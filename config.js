@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Rahul',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -55,31 +55,31 @@ const CONFIG = {
 			id: '1',
 			name: 'Github',
 			icon: 'github',
-			link: 'https://github.com/',
+			link: 'https://github.com/QKnot',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'x',
+			icon: 'twitter',
+			link: 'https://x.com/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Chatgpt',
+			icon: 'brain-circuit',
+			link: 'https://chatgpt.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Cluade',
+			icon: 'air-vent',
+			link: 'https://claude.ai/new',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Chess',
+			icon: 'gamepad-2',
+			link: 'https://www.chess.com/home',
 		},
 		{
 			id: '6',
@@ -87,6 +87,7 @@ const CONFIG = {
 			icon: 'youtube',
 			link: 'https://odysee.com/',
 		},
+		
 	],
 
 	secondButtonsContainer: [
@@ -139,20 +140,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Miyamoto Musashi',
+					link: 'https://www.youtube.com/shorts/o0RdlkUjGNM',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Jazz:Caravan',
+					link: 'https://www.youtube.com/watch?v=TS-G4UQTfUo',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'System of a Down',
+					link: 'https://www.youtube.com/channel/UC7-YMmnc0ppcWmio8t1WdcA',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Avenged Sevenfold',
+					link: 'https://www.youtube.com/channel/UCFcqi7MrlzIp9RMTtUlxE8g',
 				},
 			],
 		},
@@ -165,16 +166,20 @@ const CONFIG = {
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Reddit',
+					link: 'https://www.reddit.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Leetcode',
+					link: 'https://leetcode.com/u/QKnot/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Codeforces',
+					link: 'https://codeforces.com/profile/QKnot',
+				},
+				{
+					name: 'Rahul',
+					link: 'https://qknot.github.io/Portfolio/',
 				},
 			],
 		},
