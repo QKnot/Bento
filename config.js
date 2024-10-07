@@ -60,8 +60,8 @@ const CONFIG = {
 		{
 			id: '2',
 			name: 'x',
-			icon: 'twitter',
-			link: 'https://x.com/',
+			icon: 'microchip',
+			link: 'https://www.blackbox.ai/',
 		},
 		{
 			id: '3',
