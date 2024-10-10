@@ -171,7 +171,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Leetcode',
-					link: 'https://leetcode.com/u/QKnot/',
+					link: 'https://leetcode.com/u/BbqSgBRI/',
 				},
 				{
 					name: 'Codeforces',
